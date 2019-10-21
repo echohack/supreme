@@ -37,47 +37,47 @@ AUTOEP = {
 	["Azuregos"] = false,
 	["Doom Lord Kazzak"] = false,
 	["Teremus the Devourer"] = false,
-	["Chromaggus"] = false,
+	["Jin'do the Hexxer"] = false,
 	["Baron Geddon"] = false,
-	["Firemaw"] = false,
+	["Renataki"] = false,
 	["Sulfuron Harbinger"] = false,
 	["Gri'lek"] = false,
-	["High Priestess Arlokk"] = false,
-	["Emperor Vek'lor"] = false,
-	["Gahz'ranka"] = false,
+	["Bloodlord Mandokir"] = false,
+	["Patchwerk"] = false,
+	["Vaelastrasz the Corrupt"] = false,
 	["Gluth"] = false,
 	["Sapphiron"] = false,
-	["Razorgore the Untamed"] = false,
+	["Emeriss"] = false,
 	["Onyxia"] = false,
 	["Princess Yauj"] = false,
-	["Vem"] = false,
+	["Kurinnaxx"] = false,
 	["Shazzrah"] = false,
-	["Ouro"] = false,
+	["Ebonroc"] = false,
 	["Battleguard Sartura"] = false,
-	["Maexxna"] = false,
+	["Hakkar"] = false,
 	["Kel'Thuzad"] = false,
 	["Nefarian"] = false,
 	["Fankriss the Unyielding"] = false,
 	["Lucifron"] = false,
 	["Anub'Rekhan"] = false,
 	["Hazza'rah"] = false,
-	["Ragnaros"] = false,
-	["Ayamiss the Hunter"] = false,
-	["Broodlord Lashlayer"] = false,
 	["Viscidus"] = false,
-	["Hakkar"] = false,
-	["Ebonroc"] = false,
-	["Kurinnaxx"] = false,
+	["Broodlord Lashlayer"] = false,
+	["Ayamiss the Hunter"] = false,
+	["Ragnaros"] = false,
+	["Maexxna"] = false,
+	["Ouro"] = false,
+	["Vem"] = false,
 	["Grobbulus"] = false,
 	["Instructor Razuvious"] = false,
-	["Emeriss"] = false,
+	["Razorgore the Untamed"] = false,
 	["Magmadar"] = false,
 	["Sir Zeliek"] = false,
-	["Vaelastrasz the Corrupt"] = false,
-	["Patchwerk"] = false,
-	["Bloodlord Mandokir"] = false,
-	["Renataki"] = false,
-	["Jin'do the Hexxer"] = false,
+	["Gahz'ranka"] = false,
+	["Emperor Vek'lor"] = false,
+	["High Priestess Arlokk"] = false,
+	["Firemaw"] = false,
+	["Chromaggus"] = false,
 	["Garr"] = false,
 }
 EPVALS = {
@@ -114,47 +114,47 @@ EPVALS = {
 	["Azuregos"] = "0",
 	["Doom Lord Kazzak"] = "0",
 	["Teremus the Devourer"] = "0",
-	["Chromaggus"] = "0",
+	["Jin'do the Hexxer"] = "0",
 	["Baron Geddon"] = "0",
-	["Firemaw"] = "0",
+	["Renataki"] = "0",
 	["Sulfuron Harbinger"] = "0",
 	["Gri'lek"] = "0",
-	["High Priestess Arlokk"] = "0",
-	["Emperor Vek'lor"] = "0",
-	["Gahz'ranka"] = "0",
+	["Bloodlord Mandokir"] = "0",
+	["Patchwerk"] = "0",
+	["Vaelastrasz the Corrupt"] = "0",
 	["Gluth"] = "0",
 	["Sapphiron"] = "0",
-	["Razorgore the Untamed"] = "0",
+	["Emeriss"] = "0",
 	["Onyxia"] = "0",
 	["Princess Yauj"] = "0",
-	["Vem"] = "0",
+	["Kurinnaxx"] = "0",
 	["Shazzrah"] = "0",
-	["Ouro"] = "0",
+	["Ebonroc"] = "0",
 	["Battleguard Sartura"] = "0",
-	["Maexxna"] = "0",
+	["Hakkar"] = "0",
 	["Kel'Thuzad"] = "0",
 	["Nefarian"] = "0",
 	["Fankriss the Unyielding"] = "0",
 	["Lucifron"] = "0",
 	["Anub'Rekhan"] = "0",
 	["Hazza'rah"] = "0",
-	["Ragnaros"] = "0",
-	["Ayamiss the Hunter"] = "0",
-	["Broodlord Lashlayer"] = "0",
 	["Viscidus"] = "0",
-	["Hakkar"] = "0",
-	["Ebonroc"] = "0",
-	["Kurinnaxx"] = "0",
+	["Broodlord Lashlayer"] = "0",
+	["Ayamiss the Hunter"] = "0",
+	["Ragnaros"] = "0",
+	["Maexxna"] = "0",
+	["Ouro"] = "0",
+	["Vem"] = "0",
 	["Grobbulus"] = "0",
 	["Instructor Razuvious"] = "0",
-	["Emeriss"] = "0",
+	["Razorgore the Untamed"] = "0",
 	["Magmadar"] = "0",
 	["Sir Zeliek"] = "0",
-	["Vaelastrasz the Corrupt"] = "0",
-	["Patchwerk"] = "0",
-	["Bloodlord Mandokir"] = "0",
-	["Renataki"] = "0",
-	["Jin'do the Hexxer"] = "0",
+	["Gahz'ranka"] = "0",
+	["Emperor Vek'lor"] = "0",
+	["High Priestess Arlokk"] = "0",
+	["Firemaw"] = "0",
+	["Chromaggus"] = "0",
 	["Garr"] = "0",
 }
 BASEGP = 1
@@ -213,26 +213,25 @@ SLOTWEIGHTS = {
 	["SHIELD"] = 0,
 	["HOLDABLE"] = 0,
 	["RANGED"] = 0,
-	["SHOULDER"] = 0,
-	["FEET"] = 0,
-	["LEGS"] = 0,
-	["EXCEPTION"] = 1,
-	["WAIST"] = 0,
-	["TRINKET"] = 0,
-	["HAND"] = 0,
-	["ROBE"] = 1,
-	["CHEST"] = 0,
-	["CLOAK"] = 0,
-	["FINGER"] = 0,
-	["WEAPONOFFHAND"] = 0,
-	["RANGEDRIGHT"] = 0,
-	["RELIC"] = 0,
 	["THROWN"] = 0,
+	["FEET"] = 0,
+	["RELIC"] = 0,
+	["RANGEDRIGHT"] = 0,
+	["WEAPONOFFHAND"] = 0,
+	["TRINKET"] = 0,
+	["FINGER"] = 0,
+	["CLOAK"] = 0,
+	["CHEST"] = 0,
+	["ROBE"] = 1,
+	["HAND"] = 0,
+	["WAIST"] = 0,
+	["EXCEPTION"] = 1,
+	["LEGS"] = 0,
+	["SHOULDER"] = 0,
 }
 RECORDS = {
 }
 OVERRIDE_INDEX = {
-	["Head Of Onyxia"] = 48,
 	["Blastershot Launcher"] = 24,
 	["Earthfury Legguards"] = 18,
 	["Stormrage Cover"] = 22,
@@ -313,40 +312,40 @@ OVERRIDE_INDEX = {
 	["Bloodfang Hood"] = 22,
 	["Earthfury Belt"] = 10,
 	["Giantstalker's Leggings"] = 18,
-	["Wristguards of True Flight"] = 36,
+	["Band of Accuria"] = 68,
 	["Arcanist Crown"] = 18,
 	["Arcanist Leggings"] = 18,
-	["Wristguards of Stability"] = 8,
-	["Finkle's Lava Dredger"] = 12,
 	["Vis'kag the Bloodletter"] = 48,
+	["Cenarion Belt"] = 10,
+	["Flamewalker Legplates"] = 4,
 	["Choker of the Firelord"] = 60,
 	["Flameguard Gauntlets"] = 14,
 	["Gauntlets of Might"] = 18,
-	["Stormrage Legguards"] = 22,
+	["Ring of Spell Power"] = 36,
 	["Deathbringer"] = 52,
-	["Staff of Dominance"] = 28,
-	["Spinal Reaper"] = 8,
+	["Felheart Horns"] = 18,
+	["Felheart Shoulder Pads"] = 18,
 	["Nemesis Leggings"] = 22,
 	["Felheart Belt"] = 10,
 	["Arcanist Gloves"] = 18,
-	["Flamewalker Legplates"] = 4,
+	["Ancient Cornerstone Grimoire"] = 12,
 	["Bracers of Might"] = 10,
 	["Earthshaker"] = 0,
 	["Arcanist Belt"] = 10,
-	["Earthfury Gauntlets"] = 18,
-	["Brutality Blade"] = 28,
-	["Sapphiron Drape"] = 20,
+	["Obsidian Edged Blade"] = 12,
+	["Nightslayer Cover"] = 18,
+	["Nightslayer Chestpiece"] = 12,
 	["Arcanist Boots"] = 18,
 	["Sash of Whispered Secrets"] = 16,
-	["Ring of Spell Power"] = 36,
+	["Giantstalker's Helmet"] = 18,
 	["Band of Sulfuras"] = 12,
 	["Earthfury Epaulets"] = 18,
+	["Girdle of Prophecy"] = 10,
+	["Dragonstalker's Legguards"] = 22,
+	["Shard of the Flame"] = 4,
 	["Perdition's Blade"] = 56,
-	["Obsidian Edged Blade"] = 12,
-	["Nightslayer Gloves"] = 18,
-	["Nightslayer Cover"] = 18,
 	["Cenarion Bracers"] = 10,
-	["Nightslayer Chestpiece"] = 12,
+	["Cauterizing Band"] = 36,
 	["Legplates of Wrath"] = 22,
 	["Crown of Destruction"] = 56,
 	["Drillborer Disk"] = 28,
@@ -355,33 +354,33 @@ OVERRIDE_INDEX = {
 	["Circlet of Prophecy"] = 18,
 	["Felheart Robes"] = 12,
 	["Cenarion Boots"] = 18,
-	["Cauterizing Band"] = 36,
-	["Nightslayer Bracelets"] = 10,
-	["Netherwind Pants"] = 22,
-	["Medallion of Steadfast Might"] = 48,
-	["Mature Black Dragon Sinew"] = 0,
-	["Mana Igniting Cord"] = 36,
-	["Malistar's Defender"] = 16,
-	["Helmet of Ten Storms"] = 22,
-	["Helm of Wrath"] = 22,
+	["Cloak of the Shrouded Mists"] = 20,
 	["Halo of Transcendence"] = 22,
-	["Girdle of Prophecy"] = 10,
-	["Giantstalker's Helmet"] = 18,
-	["Shard of the Flame"] = 4,
+	["Helm of Wrath"] = 22,
+	["Helmet of Ten Storms"] = 22,
+	["Malistar's Defender"] = 16,
+	["Sapphiron Drape"] = 20,
+	["Mature Black Dragon Sinew"] = 0,
+	["Medallion of Steadfast Might"] = 48,
+	["Netherwind Pants"] = 22,
+	["Nightslayer Bracelets"] = 10,
+	["Staff of Dominance"] = 28,
+	["Finkle's Lava Dredger"] = 12,
+	["Wristguards of Stability"] = 8,
 	["Sorcerous Dagger"] = 16,
 	["Wild Growth Spaulders"] = 48,
 	["Bonereaver's Edge"] = 80,
-	["Felheart Shoulder Pads"] = 18,
-	["Felheart Horns"] = 18,
-	["Giantstalker's Epaulets"] = 18,
-	["Ancient Cornerstone Grimoire"] = 12,
-	["Dragonstalker's Legguards"] = 22,
-	["Deep Earth Spaulders"] = 0,
 	["Core Forged Geaves"] = 4,
-	["Cloak of the Shrouded Mists"] = 20,
-	["Cenarion Belt"] = 10,
+	["Nightslayer Gloves"] = 18,
+	["Giantstalker's Epaulets"] = 18,
+	["Mana Igniting Cord"] = 36,
+	["Deep Earth Spaulders"] = 0,
+	["Brutality Blade"] = 28,
+	["Earthfury Gauntlets"] = 18,
+	["Spinal Reaper"] = 8,
+	["Stormrage Legguards"] = 22,
 	["Robes of Prophecy"] = 12,
-	["Band of Accuria"] = 68,
+	["Wristguards of True Flight"] = 36,
 }
 TRAFFIC = {
 	{
@@ -825,6 +824,400 @@ TRAFFIC = {
 		58, -- [6]
 		41, -- [7]
 	}, -- [49]
+	{
+		"Meshona", -- [1]
+		"Echohack", -- [2]
+		"Add EP +60 (Fixing 10/13/2019)", -- [3]
+		130, -- [4]
+		190, -- [5]
+		17, -- [6]
+		17, -- [7]
+	}, -- [50]
+	{
+		"Macewindu", -- [1]
+		"Couillon", -- [2]
+		"Add GP +8", -- [3]
+		"100", -- [4]
+		"100", -- [5]
+		"1", -- [6]
+		"9", -- [7]
+		"|cffa335ee|Hitem:17109::::::::110:::::|h[Choker of Enlightenment]|h|r", -- [8]
+	}, -- [51]
+	{
+		"Chapman", -- [1]
+		"Couillon", -- [2]
+		"Add GP +18", -- [3]
+		"0", -- [4]
+		"0", -- [5]
+		"1", -- [6]
+		"19", -- [7]
+		"|cffa335ee|Hitem:16805::::::::110:::::|h[Felheart Gloves]|h|r", -- [8]
+	}, -- [52]
+	{
+		"Servicer", -- [1]
+		"Couillon", -- [2]
+		"Add GP +0", -- [3]
+		"50", -- [4]
+		"50", -- [5]
+		"1", -- [6]
+		"1", -- [7]
+		"|cff1eff00|Hitem:16665::::::::110:::::|h[Tome of Tranquilizing Shot]|h|r", -- [8]
+	}, -- [53]
+	{
+		"Manon", -- [1]
+		"Echohack", -- [2]
+		"Add GP +18 (Fixing incorrect loot)", -- [3]
+		170, -- [4]
+		170, -- [5]
+		19, -- [6]
+		37, -- [7]
+	}, -- [54]
+	{
+		"Rakusa", -- [1]
+		"Couillon", -- [2]
+		"Add GP +10", -- [3]
+		"0", -- [4]
+		"0", -- [5]
+		"1", -- [6]
+		"11", -- [7]
+		"|cffa335ee|Hitem:16804::::::::110:::::|h[Felheart Bracers]|h|r", -- [8]
+	}, -- [55]
+	{
+		"Cidolbones", -- [1]
+		"Couillon", -- [2]
+		"Add GP +18", -- [3]
+		"190", -- [4]
+		"190", -- [5]
+		"41", -- [6]
+		"59", -- [7]
+		"|cffa335ee|Hitem:16826::::::::110:::::|h[Nightslayer Gloves]|h|r", -- [8]
+	}, -- [56]
+	{
+		"Stormherald", -- [1]
+		"Couillon", -- [2]
+		"Add GP +8", -- [3]
+		"0", -- [4]
+		"0", -- [5]
+		"1", -- [6]
+		"9", -- [7]
+		"|cffa335ee|Hitem:18870::::::::110:::::|h[Helm of the Lifegiver]|h|r", -- [8]
+	}, -- [57]
+	{
+		"Servicer", -- [1]
+		"Couillon", -- [2]
+		"Add GP +10", -- [3]
+		"50", -- [4]
+		"50", -- [5]
+		"1", -- [6]
+		"11", -- [7]
+		"|cffa335ee|Hitem:16850::::::::110:::::|h[Giantstalker's Bracers]|h|r", -- [8]
+	}, -- [58]
+	{
+		"Chapman", -- [1]
+		"Couillon", -- [2]
+		"Add GP +18", -- [3]
+		"0", -- [4]
+		"0", -- [5]
+		"19", -- [6]
+		"37", -- [7]
+		"|cffa335ee|Hitem:16808::::::::110:::::|h[Felheart Horns]|h|r", -- [8]
+	}, -- [59]
+	{
+		"Kagedorf", -- [1]
+		"Echohack", -- [2]
+		"Add GP +150 (Bindings)", -- [3]
+		110, -- [4]
+		110, -- [5]
+		49, -- [6]
+		199, -- [7]
+	}, -- [60]
+	{
+		"Crystalist", -- [1]
+		"Couillon", -- [2]
+		"Add GP +18", -- [3]
+		"180", -- [4]
+		"180", -- [5]
+		"73", -- [6]
+		"91", -- [7]
+		"|cffa335ee|Hitem:16866::::::::110:::::|h[Helm of Might]|h|r", -- [8]
+	}, -- [61]
+	{
+		"Aagrim", -- [1]
+		"Couillon", -- [2]
+		"Add GP +10", -- [3]
+		"190", -- [4]
+		"190", -- [5]
+		"19", -- [6]
+		"29", -- [7]
+		"|cffa335ee|Hitem:16827::::::::110:::::|h[Nightslayer Belt]|h|r", -- [8]
+	}, -- [62]
+	{
+		"Chapman", -- [1]
+		"Couillon", -- [2]
+		"Add GP +18", -- [3]
+		"0", -- [4]
+		"0", -- [5]
+		"37", -- [6]
+		"55", -- [7]
+		"|cffa335ee|Hitem:16807::::::::110:::::|h[Felheart Shoulder Pads]|h|r", -- [8]
+	}, -- [63]
+	{
+		"Jeeberson", -- [1]
+		"Couillon", -- [2]
+		"Add GP +0", -- [3]
+		"0", -- [4]
+		"0", -- [5]
+		"1", -- [6]
+		"1", -- [7]
+		"|cffa335ee|Hitem:19144::::::::110:::::|h[Sabatons of the Flamewalker]|h|r", -- [8]
+	}, -- [64]
+	{
+		"Frazetta", -- [1]
+		"Couillon", -- [2]
+		"Add GP +10", -- [3]
+		"190", -- [4]
+		"190", -- [5]
+		"23", -- [6]
+		"33", -- [7]
+		"|cffa335ee|Hitem:16799::::::::110:::::|h[Arcanist Bindings]|h|r", -- [8]
+	}, -- [65]
+	{
+		"Macewindu", -- [1]
+		"Couillon", -- [2]
+		"Add GP +8", -- [3]
+		"100", -- [4]
+		"100", -- [5]
+		"9", -- [6]
+		"17", -- [7]
+		"|cffa335ee|Hitem:18872::::::::110:::::|h[Manastorm Leggings]|h|r", -- [8]
+	}, -- [66]
+	{
+		"Deadwood", -- [1]
+		"Couillon", -- [2]
+		"Add GP +8", -- [3]
+		"0", -- [4]
+		"0", -- [5]
+		"1", -- [6]
+		"9", -- [7]
+		"|cffa335ee|Hitem:18872::::::::110:::::|h[Manastorm Leggings]|h|r", -- [8]
+	}, -- [67]
+	{
+		"Raid", -- [1]
+		"Echohack", -- [2]
+		"Add Raid EP +40 (MC/Ony 10/20/2019 - part 1)", -- [3]
+	}, -- [68]
+	{
+		"Meshona", -- [1]
+		"Couillon", -- [2]
+		"Add GP +12", -- [3]
+		"230", -- [4]
+		"230", -- [5]
+		"17", -- [6]
+		"29", -- [7]
+		"|cffa335ee|Hitem:16841::::::::110:::::|h[Earthfury Vestments]|h|r", -- [8]
+	}, -- [69]
+	{
+		"Macewindu", -- [1]
+		"Couillon", -- [2]
+		"Add GP +12", -- [3]
+		"140", -- [4]
+		"140", -- [5]
+		"17", -- [6]
+		"29", -- [7]
+		"|cffa335ee|Hitem:16815::::::::110:::::|h[Robes of Prophecy]|h|r", -- [8]
+	}, -- [70]
+	{
+		"Vwins", -- [1]
+		"Couillon", -- [2]
+		"Add GP +36", -- [3]
+		"230", -- [4]
+		"230", -- [5]
+		"17", -- [6]
+		"53", -- [7]
+		"|cffa335ee|Hitem:18646::::::::110:::::|h[The Eye of Divinity]|h|r", -- [8]
+	}, -- [71]
+	{
+		"Aagrim", -- [1]
+		"Couillon", -- [2]
+		"Add GP +44", -- [3]
+		"230", -- [4]
+		"230", -- [5]
+		"29", -- [6]
+		"73", -- [7]
+		"|cffa335ee|Hitem:18805::::::::110:::::|h[Core Hound Tooth]|h|r", -- [8]
+	}, -- [72]
+	{
+		"Cowhileonard", -- [1]
+		"Couillon", -- [2]
+		"Add GP +48", -- [3]
+		"200", -- [4]
+		"200", -- [5]
+		"29", -- [6]
+		"77", -- [7]
+		"|cffa335ee|Hitem:18810::::::::110:::::|h[Wild Growth Spaulders]|h|r", -- [8]
+	}, -- [73]
+	{
+		"Vidange", -- [1]
+		"Couillon", -- [2]
+		"Add GP +20", -- [3]
+		"230", -- [4]
+		"230", -- [5]
+		"19", -- [6]
+		"39", -- [7]
+		"|cffa335ee|Hitem:17102::::::::110:::::|h[Cloak of the Shrouded Mists]|h|r", -- [8]
+	}, -- [74]
+	{
+		"Servicer", -- [1]
+		"Couillon", -- [2]
+		"Add GP +22", -- [3]
+		"90", -- [4]
+		"90", -- [5]
+		"11", -- [6]
+		"33", -- [7]
+		"|cffa335ee|Hitem:16938::::::::110:::::|h[Dragonstalker's Legguards]|h|r", -- [8]
+	}, -- [75]
+	{
+		"Meshona", -- [1]
+		"Couillon", -- [2]
+		"Add GP +22", -- [3]
+		"230", -- [4]
+		"230", -- [5]
+		"29", -- [6]
+		"51", -- [7]
+		"|cffa335ee|Hitem:16946::::::::110:::::|h[Legplates of Ten Storms]|h|r", -- [8]
+	}, -- [76]
+	{
+		"Echohack", -- [1]
+		"Couillon", -- [2]
+		"Add GP +60", -- [3]
+		"180", -- [4]
+		"180", -- [5]
+		"19", -- [6]
+		"79", -- [7]
+		"|cffa335ee|Hitem:18814::::::::110:::::|h[Choker of the Fire Lord]|h|r", -- [8]
+	}, -- [77]
+	{
+		"Raid", -- [1]
+		"Echohack", -- [2]
+		"Add Raid EP +20 (MC/Ony 10/20/2019 - part 2)", -- [3]
+	}, -- [78]
+	{
+		"Chapman", -- [1]
+		"Echohack", -- [2]
+		"Add EP +20 (MC/Ony 10/20/2019 - part 2)", -- [3]
+		40, -- [4]
+		60, -- [5]
+		55, -- [6]
+		55, -- [7]
+	}, -- [79]
+	{
+		"Cowhileonard", -- [1]
+		"Echohack", -- [2]
+		"Add EP +20 (MC/Ony 10/20/2019 - part 2)", -- [3]
+		200, -- [4]
+		220, -- [5]
+		77, -- [6]
+		77, -- [7]
+	}, -- [80]
+	{
+		"Warlogy", -- [1]
+		"Echohack", -- [2]
+		"Add EP +20 (MC/Ony 10/20/2019 - part 2)", -- [3]
+		40, -- [4]
+		60, -- [5]
+		1, -- [6]
+		1, -- [7]
+	}, -- [81]
+	{
+		"Weedwarriorx", -- [1]
+		"Echohack", -- [2]
+		"Add EP +20 (MC/Ony 10/20/2019 - part 2)", -- [3]
+		40, -- [4]
+		60, -- [5]
+		1, -- [6]
+		1, -- [7]
+	}, -- [82]
+	{
+		"Jeeberson", -- [1]
+		"Echohack", -- [2]
+		"Add EP +20 (MC/Ony 10/20/2019 - part 2)", -- [3]
+		40, -- [4]
+		60, -- [5]
+		1, -- [6]
+		1, -- [7]
+	}, -- [83]
+	{
+		"Slovitypagus", -- [1]
+		"Echohack", -- [2]
+		"Add EP +20 (MC/Ony 10/20/2019 - part 2)", -- [3]
+		40, -- [4]
+		60, -- [5]
+		1, -- [6]
+		1, -- [7]
+	}, -- [84]
+	{
+		"Stormherald", -- [1]
+		"Echohack", -- [2]
+		"Add EP +20 (MC/Ony 10/20/2019 - part 2)", -- [3]
+		40, -- [4]
+		60, -- [5]
+		9, -- [6]
+		9, -- [7]
+	}, -- [85]
+	{
+		"Nemezis", -- [1]
+		"Echohack", -- [2]
+		"Subtract EP -20 (MC/Ony 10/20/2019 - part 2)", -- [3]
+		20, -- [4]
+		0, -- [5]
+		1, -- [6]
+		1, -- [7]
+	}, -- [86]
+	{
+		"Scorched", -- [1]
+		"Couillon", -- [2]
+		"Add GP +20", -- [3]
+		"230", -- [4]
+		"230", -- [5]
+		"19", -- [6]
+		"39", -- [7]
+		"|cffa335ee|Hitem:17078::::::::110:::::|h[Sapphiron Drape]|h|r", -- [8]
+	}, -- [87]
+	{
+		"Vyrze", -- [1]
+		"Couillon", -- [2]
+		"Add GP +22", -- [3]
+		"250", -- [4]
+		"250", -- [5]
+		"49", -- [6]
+		"71", -- [7]
+		"|cffa335ee|Hitem:16908::::::::110:::::|h[Bloodfang Hood]|h|r", -- [8]
+	}, -- [88]
+	{
+		"Cracktown", -- [1]
+		"Couillon", -- [2]
+		"Add GP +22", -- [3]
+		"220", -- [4]
+		"220", -- [5]
+		"1", -- [6]
+		"23", -- [7]
+		"|cffa335ee|Hitem:16914::::::::110:::::|h[Netherwind Crown]|h|r", -- [8]
+	}, -- [89]
+	{
+		"Raid", -- [1]
+		"Echohack", -- [2]
+		"Add Raid EP +20 (Ony 10/20/2019)", -- [3]
+	}, -- [90]
+	{
+		"Couillon", -- [1]
+		"Echohack", -- [2]
+		"Add GP +48 (Ony 10/20/2019)", -- [3]
+		270, -- [4]
+		270, -- [5]
+		1, -- [6]
+		49, -- [7]
+		"Couillon-Sulfuras", -- [8]
+	}, -- [91]
 }
 CEPGP_raid_logs = {
 }
