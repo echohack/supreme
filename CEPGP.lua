@@ -232,6 +232,7 @@ SLOTWEIGHTS = {
 RECORDS = {
 }
 OVERRIDE_INDEX = {
+	["Head Of Onyxia"] = 48,
 	["Blastershot Launcher"] = 24,
 	["Earthfury Legguards"] = 18,
 	["Stormrage Cover"] = 22,
